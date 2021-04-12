@@ -6,5 +6,7 @@
 
 Have to do every times when spotify has been updated.
 
+Sorry for my bad coding hope you feel me. 
+
 Libraly & Config
 All credits to : https://github.com/mrpond & https://github.com/master131/
