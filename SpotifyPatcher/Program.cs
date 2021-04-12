@@ -48,7 +48,7 @@ namespace SpotifyPatcher
 		}
 	}
 	// Write Config File ><
-
+        // Credit to https://stackoverflow.com/questions/217902/reading-writing-an-ini-file
 	class WConfig
 	{
 		private string filePath;
