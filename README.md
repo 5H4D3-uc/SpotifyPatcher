@@ -8,5 +8,5 @@ Have to do every time when spotify has been updated.
 
 Sorry for my bad coding hope you feel me. 
 
-lib & config
+Lib & Config
 All credits to : https://github.com/mrpond & https://github.com/master131/
