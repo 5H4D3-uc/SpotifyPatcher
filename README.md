@@ -1,10 +1,10 @@
 # SpotifyPatcher
 # Usage
-1.Remove OLD Spotify & Install 
+1.Remove old SPOTIFY & install new version 
 2.Run SpotifyPatcher.exe
 3.Enjoy with no ads
 
-Have to do every times when spotify has been updated.
+Have to do every time when spotify has been updated.
 
 Sorry for my bad coding hope you feel me. 
 
