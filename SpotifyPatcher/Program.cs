@@ -47,7 +47,7 @@ namespace SpotifyPatcher
 			inif.Write("Config", "Block_BannerOnly", "0");
 		}
 	}
-	// Write Config File ><
+	// Write Config File Section
         // Credit to https://stackoverflow.com/questions/217902/reading-writing-an-ini-file
 	class WConfig
 	{
